@@ -1,4 +1,5 @@
-
+server:
+  port: 3357
   
 config:
   info: "this is config-dev version=1"
