@@ -1,4 +1,2 @@
-server:
-  port: 3377  
-config:
-  info: this is config-dev version=5
+ config:
+  info: this is config-dev version=7
